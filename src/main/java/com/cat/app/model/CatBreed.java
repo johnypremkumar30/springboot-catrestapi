@@ -1,4 +1,4 @@
-package com.cat.appmodel;
+package com.cat.app.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

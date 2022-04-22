@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.data.domain.Page;
 
-import com.cat.appmodel.CatBreed;
+import com.cat.app.model.CatBreed;
 
 public interface CatBreedService {
 
